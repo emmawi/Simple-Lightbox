@@ -2,7 +2,7 @@
 A simple jQuery-plugin with a lightbox for images. 
 
 ##How to use simple Lightbox
-It easy as a cake! Just select your div that includes your images and call the function simplelightbox.
+It's easy as a cake! Just select your div that includes your images and call the function simplelightbox.
 
 Example:$('yourdiv').simplelightbox();
 
